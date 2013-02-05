@@ -3,40 +3,50 @@ byjg-service-examples
 
 Aqui você encontrará vários exemplos de implementação dos serviços ByJG em diversas linguagens. 
 
-Esse repositório é público e quem quiser ter acesso para incluir modificações basta se cadastrar no site e solicitar o acesso através do contato. 
+Os Serviços ByJG públicos são
++ SMS - Serviço de envio de SMS por Web Service
++ CEP - Serviço de consulta de CEPs Brasileitos por Web Service
+
+Endereços:
++ Site Principal: http://www.byjg.com.br/
++ SMS Service: http://www.byjg.com.br/site/xmlnuke.php?xml=smswebservice
++ CEP Service: http://www.byjg.com.br/site/xmlnuke.php?xml=onlinecep
++ App Facebook: http://www.smswebservice.com.br/
+
+O repositório com os exemplos é público e quem quiser ter acesso para incluir modificações basta se cadastrar no site e solicitar o acesso através do contato. 
 
 Abaixo alguns exemplos:
 
-## CSharp 
+### CSharp 
 
 + SMS
 
-## Delphi
+### Delphi
 
 + SMS - Exemplo cedido gentilmente por Jonas Pneus, Gravataí / RS
 
-## HTML
+### HTML
 
 + CEP
 
-## Java
+### Java
 
 + SMS
 + CEP
 
-## Joomla
+### Joomla
 
 + SMS - Exemplo cedido gentilmente pela Pixxis
 
-## PHP5
+### PHP5
 
 + SMS
 
-## VB.Net
+### VB.Net
 
 + SMS
 
-## xHarbour
+### xHarbour
 
 + SMS - Exemplo cedido gentilmente pela AWS Sistemas Empresarias, Sorocaba / SP
 
