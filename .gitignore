@@ -9,6 +9,7 @@
 [Tt]humbs.db
 *.DS_Store
 *.~*
+*.md~
 
 #Visual Studio files
 *.[Oo]bj
