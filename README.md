@@ -28,6 +28,7 @@ Abaixo alguns exemplos:
 ### HTML
 
 + CEP
++ CEP+JS
 
 ### Java
 
@@ -36,11 +37,20 @@ Abaixo alguns exemplos:
 
 ### Joomla
 
++ CEP - Exemplo cedido gentilmente por Ricardo Lima Caratti do Livro: "Joomla Avançado"
 + SMS - Exemplo cedido gentilmente pela Pixxis
+
+### Objective C (IPhone)
+
++ CEP - Exemplo cedido gentilmente por Ricardo Lima Caratti do Livro: "Joomla Avançado 2dn Ed"
 
 ### PHP5
 
 + SMS
+
+### SQL Server Intergration Service 11
+
++ CEP - Exemplo cedido gentilmento por Adauto Michelotti
 
 ### VB.Net
 

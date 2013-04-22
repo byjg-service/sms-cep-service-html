@@ -1,0 +1,97 @@
+<html>
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <script src="jquery-1.4.3.min.js" type="text/javascript"></script>
+    <script src="cep.js" type="text/javascript"></script>
+    
+    <style>
+	.InlineBlock { display:inline-block; width:100%;}
+	.Hide { display:none !important; }
+	.Show { display:inline !important;}
+    </style>
+
+</head>
+
+ <div class="EnderecoEntrega">
+    <span class="Alerta Hide">ATENÇÃO:<br />
+
+        - Você deve preencher os campos com seu endereço corretamente para continuar.
+    </span>
+    <br />
+    <label class="LabelEntrega LabelCep">
+        CEP</label>
+    <input class="txtCep" id="Address_CEP" maxlength="9" name="Address.CEP" type="text" value="" />
+    <img class="Loading Hide" src="loading.gif" alt="Aguarde" />
+    <br />
+    <div id="divEnderecoElements" class="Hide">
+
+        <label class="LabelEntrega">
+            Estado</label>
+        <select id="Address_Estado" class="txtEstado" name="Address.Estado">
+            <option value="">Selecione</option>
+            <option value="AC">AC</option>
+            <option value="AL">AL</option>
+            <option value="AM">AM</option>
+
+            <option value="AP">AP</option>
+            <option value="BA">BA</option>
+            <option value="CE">CE</option>
+            <option value="DF">DF</option>
+            <option value="ES">ES</option>
+            <option value="GO">GO</option>
+
+            <option value="MA">MA</option>
+            <option value="MG">MG</option>
+            <option value="MS">MS</option>
+            <option value="MT">MT</option>
+            <option value="PA">PA</option>
+            <option value="PB">PB</option>
+
+            <option value="PE">PE</option>
+            <option value="PI">PI</option>
+            <option value="PR">PR</option>
+            <option value="RJ">RJ</option>
+            <option value="RN">RN</option>
+            <option value="RO">RO</option>
+
+            <option value="RR">RR</option>
+            <option value="RS">RS</option>
+            <option value="SC">SC</option>
+            <option value="SE">SE</option>
+            <option value="SP">SP</option>
+            <option value="TO">TO</option>
+
+        </select>
+        <br />
+        <label class="LabelEntrega">
+            Endereço</label>
+        <input class="txtEndereco" id="Address_Endereco" name="Address.Endereco" type="text" value="" />
+        <br />
+        <label class="LabelEntrega">
+            Número</label>
+
+        <input class="txtNumero" id="Address_Numero" name="Address.Numero" type="text" value="" />
+        <br />
+        <label class="LabelEntrega">
+            Complemento</label>
+        <input class="txtComplemento" id="Address_Complemento" name="Address.Complemento" type="text" value="" />
+        <br />
+        <label class="LabelEntrega">
+            Bairro</label>
+
+        <input class="txtBairro" id="Address_Bairro" name="Address.Bairro" type="text" value="" />
+        <br />
+        <label class="LabelEntrega">
+            Cidade</label>
+        <input class="txtCidade" id="Address_Cidade" name="Address.Cidade" type="text" value="" />
+        <br />
+        <label class="LabelEntrega">
+            &#160;</label>
+
+    </div>
+</div>
+
+</html>
