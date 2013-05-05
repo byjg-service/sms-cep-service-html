@@ -25,7 +25,13 @@ Abaixo alguns exemplos:
 
 ### Delphi
 
++ CEP Example 1 - Exemplo cedido gentilmente por David Mengarda
++ CEP Example 2 (cód IBGE) - Exemplo cedido gentilmente por Andrea Kimura
 + SMS - Exemplo cedido gentilmente por Jonas Pneus, Gravataí / RS
+
+### FoxPro
+
++ CEP - Exemplo cedido gentilmente por Graciano Santos Duarte
 
 ### HTML
 
@@ -49,10 +55,18 @@ Abaixo alguns exemplos:
 ### PHP5
 
 + SMS
++ CEP - Exemplo cedido gentilmente por Deni Santos (NuSoap)
++ CEP - Exemplo cedido gentilmente por Marcio H V Pereira (Curl)
 
 ### SQL Server Intergration Service 11
 
 + CEP - Exemplo cedido gentilmento por Adauto Michelotti
+
+
+### Visual Basic 6
+
++ CEP - Exemplo cedido gentilmente por Jorge Barros
++ CEP - Exemplo cedido gentilmente por Ari Benevenuto (SoapSDK)
 
 ### VB.Net
 
@@ -61,5 +75,7 @@ Abaixo alguns exemplos:
 ### xHarbour
 
 + SMS - Exemplo cedido gentilmente pela AWS Sistemas Empresarias, Sorocaba / SP
++ CEP - Exemplo cedido gentilmente por Leonardo Machado (1.0.1 Harbour + bcc51)
+
 
 
