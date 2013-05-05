@@ -7,6 +7,9 @@ Os Serviços ByJG públicos são
 + SMS - Serviço de envio de SMS por Web Service
 + CEP - Serviço de consulta de CEPs Brasileitos por Web Service
 
+Navegar no código fonte
++ https://github.com/byjg/byjg-service-examples
+
 Endereços:
 + Site Principal: http://www.byjg.com.br/
 + SMS Service: http://www.byjg.com.br/site/xmlnuke.php?xml=smswebservice
