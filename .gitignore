@@ -72,3 +72,5 @@ packages/
 #Test files
 *.testsettings
 
+/java/nbproject/private/
+/java/dist/
